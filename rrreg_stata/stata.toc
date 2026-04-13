@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p rrreg Linear probability model for randomized response data Use rrreg With STATA 19

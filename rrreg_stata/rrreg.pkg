@@ -1,0 +1,4 @@
+D 'rrreg': Linear probability model for randomized response data Use rrreg With STATA 19
+D
+F rrreg.ado
+F rrreg.hlp
