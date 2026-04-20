@@ -1,6 +1,8 @@
 # rrreg_stata
 Linear probability model for randomized response data Use rrreg With STATA 19
 
+https://www.youtube.com/watch?v=6QTCtn184ps
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
